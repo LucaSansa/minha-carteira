@@ -1,3 +1,23 @@
+# Minha Carteira
+### This project is simply about practice, being a responsive Dashboard with the use of graphics, it was developed during the classes of the <a href="https://www.udemy.com/course/react-e-typescript/?src=sac&kw=React+e+TypeScript%3A+desenvolvendo+um+Dashboard" target="_blank">"React e TypeScript: desenvolvendo uma dashboard"</a>, available on the Udemy platform.
+
+<h1 align="center">
+<img src="src/images/image1.png">
+</h1>
+
+<h1 align="center">
+<img src="src/images/image2.png">
+</h1>
+
+<h1 align="center">
+<img src="src/images/minha-carteira.gif">
+</h1>
+
+Use the credentials to log in to the application
+
+* EMAIL: user@user.com 
+* PASSWORD: 123
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,6 +64,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# minha-carteira
-# minha-carteira
-# minha-carteira
+
+
